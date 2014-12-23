@@ -1,9 +1,6 @@
 ﻿<?php
-/**
- * @author César Cuéllar
- * @version 1.0
- * @created 20-oct-2013 07:47:29 a.m.
- */
+
+
 class Contratista extends Empleado
 {
 	private $totalHoras;
